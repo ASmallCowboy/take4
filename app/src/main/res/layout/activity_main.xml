@@ -61,4 +61,12 @@
         android:text="Button"
         tools:layout_editor_absoluteX="243dp"
         tools:layout_editor_absoluteY="594dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_launcher_foreground"
+        tools:layout_editor_absoluteX="137dp"
+        tools:layout_editor_absoluteY="294dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
